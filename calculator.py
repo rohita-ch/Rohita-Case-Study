@@ -19,7 +19,7 @@ def divide(x, y):
     return x / y
 
 if __name__ == "__main__":
-    print("Simple Calculator")
+    print("Rohita's Simple Calculator")
     num1 = float(input("Enter first number: "))
     num2 = float(input("Enter second number: "))
     
